@@ -1,0 +1,7 @@
+334;Ausra;3
+152;Bausrele;5
+178;Causryte;4
+334;Ausra;3
+654;Avakaro zinios;2
+786;Bvakaro zinios;6
+111;Fvakaro zinios;5

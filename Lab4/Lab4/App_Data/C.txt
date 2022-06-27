@@ -1,0 +1,10 @@
+2018
+Student;E2615;2019;Matelis;Matas;1997-01-02;865187341
+Student;E2615;2022;Auskalnis;Rimas;2002-06-20;865187956
+Student;E2615;2017;Tyla;Martynas;1999-06-02;865187512
+Graduate;2020;Darbas1;Stasiukas;Stasys;2003-06-02;865187222
+Student;E2615;2020;Genijus;Augenijus;1999-02-12;865187111
+Student;E2637;2016;Jase;Guoda;1997-02-02;865187222
+Graduate;2021;Darbas2;Petrauskas;Linas;2004-02-02;865187333
+Graduate;2016;Darbas3;Markevicius;Markas;1993-01-02;865187541
+Student;E2615;2019;Paulenas;Paulius;1997-01-02;865187666

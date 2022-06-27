@@ -1,0 +1,94 @@
+Informacija apie leidinius
+-------------------------------------------
+|      525 | Leidinys1       |          5 |
+|      132 | BLeidinys2      |        0,3 |
+|      234 | Leidinys3       |          4 |
+|      657 | Leidinukas1     |          3 |
+|      685 | Leidinukas2     |          4 |
+|      699 | ALeidinukas3    |        0,7 |
+-------------------------------------------
+
+Informacija apie prenumeratorius
+-----------------------------------------------------------------------------
+|      234 | Tomenas         | Vyduno al. 49-a      |     1 |     5 |     5 |
+|      699 | Auskalnis       | Kovo 11 g.16         |     2 |    12 |     1 |
+|      525 | Tyla            | Maironio g.56        |     1 |     2 |     3 |
+|      132 | Rope            | Vilniaus g.1         |     1 |     2 |     3 |
+|      657 | Stasiukenas     | Gedimino g.66-A      |     1 |     2 |     2 |
+|      685 | Romas           | Ausros g.50-A        |     1 |     2 |     8 |
+-----------------------------------------------------------------------------
+
+------------------------------------------
+| Leidinių egzistencija per mėnesius     | 
+------------------------------------------
+| Mėnuo           |       Leidinio kodas |
+------------------------------------------
+| sausis          |                  234 |
+| vasaris         |                  234 |
+| kovas           |                  234 |
+| balandis        |                  234 |
+| gegužė          |                  234 |
+| birželis        |                  234 |
+| liepa           |                  699 |
+| rugpjūtis       |                  699 |
+| rugsėjis        |                  699 |
+| spalis          |                  699 |
+| lapkritis       |                  699 |
+| gruodis         |                  699 |
+
+--------------------------------------------------
+| Leidinių uždarbiai                             | 
+--------------------------------------------------
+| Leidinio pavadinimas                | Uždarbis |
+--------------------------------------------------
+| Leidinys1                           |       15 |
+| BLeidinys2                          |      0,9 |
+| Leidinys3                           |       20 |
+| Leidinukas1                         |        6 |
+| Leidinukas2                         |       32 |
+| ALeidinukas3                        |      0,7 |
+
+---------------------------------------------------------------------
+Duomenys tenkinantys kriterijus              
+---------------------------------------------------------------------
+|            Leidinio kodas | Leidinio pavadinimas |           Kaina|
+---------------------------------------------------------------------
+|                       132 | BLeidinys2           |             0,3|
+|                       699 | ALeidinukas3         |             0,7|
+
+------------------------------------------
+| Leidinių egzistencija per mėnesius     | 
+------------------------------------------
+| Mėnuo           |       Leidinio kodas |
+------------------------------------------
+| sausis          |                  234 |
+| vasaris         |                  234 |
+| kovas           |                  234 |
+| balandis        |                  234 |
+| gegužė          |                  234 |
+| birželis        |                  234 |
+| liepa           |                  699 |
+| rugpjūtis       |                  699 |
+| rugsėjis        |                  699 |
+| spalis          |                  699 |
+| lapkritis       |                  699 |
+| gruodis         |                  699 |
+
+------------------------------------------
+| Leidinių egzistencija per mėnesius     | 
+------------------------------------------
+| Mėnuo           |       Leidinio kodas |
+------------------------------------------
+| sausis          |                  234 |
+| vasaris         |                  234 |
+| kovas           |                  234 |
+| balandis        |                  234 |
+| gegužė          |                  234 |
+| birželis        |                  234 |
+| liepa           |                  699 |
+| rugpjūtis       |                  699 |
+| rugsėjis        |                  699 |
+| spalis          |                  699 |
+| lapkritis       |                  699 |
+| gruodis         |                  699 |
+

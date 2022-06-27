@@ -1,0 +1,54 @@
+﻿body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+div.InitialData {
+    padding: 50px 50px 0px 50px;
+}
+
+#Panel1 {
+    position: center;
+    font-weight: inherit;
+    left: 150%;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 4;
+}
+
+#TextBox3 {
+    position: relative;
+    background-color: antiquewhite;
+    top: -13px;
+    left: 1px;
+    height: 221px;
+    width: 812px;
+    margin-top: 0px;
+}
+
+#Button1, #Button2, #Button3 {
+    border: solid 2px #8A0F0F;
+    width: 150px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+    #Button1:hover, #Button2:hover, #Button3:hover {
+        background-color: #8A0F0F;
+        color: white;
+    }
+
+
+.LabelStyle {
+    border: solid 2px #8A0F0F;
+    padding-bottom: 5px;
+    width: 500px;
+    display: block;
+    margin-top: 20px;
+    color: red;
+}

@@ -1,0 +1,10 @@
+2021
+Student;E2615;2021;Matelis;Matas;2008-01-02;865187341
+Student;E2615;2022;Auskalnis;Rimas;2006-06-20;865187956
+Student;E2615;2021;Tyla;Martynas;2007-06-02;865187512
+Graduate;2022;Darbas1;Stasiukas;Stasys;2006-06-02;865187222
+Student;E2615;2021;Genijus;Augenijus;2005-02-12;865187111
+Student;E2637;2021;Jase;Guoda;2008-02-02;865187222
+Graduate;2021;Darbas2;Petrauskas;Linas;2009-02-02;865187333
+Graduate;2022;Darbas3;Markevicius;Markas;2008-01-02;865187541
+Student;E2615;2021;Paulenas;Paulius;2008-01-02;865187666

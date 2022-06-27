@@ -1,0 +1,6 @@
+Vasiliauskas;Kovo 11 g.16;2;8;152;10
+Jurgaitis;Vyduno al.20;1;5;654;8
+Juozaitis;Maironio g.56;3;6;178;5
+Romaitis;Vilniaus g.1;1;3;786;7
+Pastoraitis;Gedimino g.66-A;2;10;111;8
+Stasenas;Ausros g.50-A;3;5;334;17

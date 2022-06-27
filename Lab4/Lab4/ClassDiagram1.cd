@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab4.Form1">
+    <Position X="14.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAIAABUAAERAAAAEAAAAgAYAAAQAAIAABEAIIAAAA=</HashCode>
+      <FileName>Form1.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4.Graduate">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAQAgAAAAABAAAACCAAAAABAAAAAAAA=</HashCode>
+      <FileName>Graduate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab4.InOutUtils">
+    <Position X="11.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAAAAAAEAAAQAAAEAAAACAAAAAAAAAAEgAAAAAAAAA=</HashCode>
+      <FileName>InOutUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4.Member">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEiAAAAARABAACAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Member.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab4.Register">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4.Student">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQAgAAAAABAAAACAAAAAABAAEAAAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab4.TaskUtils">
+    <Position X="13" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAAAAAAYgEAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>TaskUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

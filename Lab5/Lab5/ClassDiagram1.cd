@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab5.Form1">
+    <Position X="10.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAEIAEIAAAAAAAEBgIDgAIAAAcAAJBAAAAAIAAAA=</HashCode>
+      <FileName>Form1.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5.GameInfo">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAACAAAAAAAEAAAAgAQBBAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5.InOutUtils">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAABAAAAAgAAAEAAAAAAAAAAAAAQBCAAAAA=</HashCode>
+      <FileName>InOutUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5.Player">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAkAAAAAAQBBAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5.Register">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab5.TaskUtils">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAIAABAAAAQAAAAABAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>TaskUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

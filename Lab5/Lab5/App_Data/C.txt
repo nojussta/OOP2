@@ -1,0 +1,12 @@
+﻿2023-11-02
+Zalgiris;Jankūnas;Paulius;50;10;1
+Zalgiris;Walkup;Thomas;5;2;0
+Zalgiris;Hayes;Nigel;15;9;0
+Zalgiris;Lekavičius;Lukas;40;45;3
+Zalgiris;Grigonis;Marius;45;20;1
+Zalgiris;Jokūbaitis;Rokas;35;15;2
+CSKA;Shengelia;Tornike;25;25;1
+CSKA;Lundberg;Gabriel;15;10;0
+CSKA;Clyburn;Will;5;20;1
+CSKA;Hackett;Daniel;45;30;0
+CSKA;Michael;Eric;30;10;0

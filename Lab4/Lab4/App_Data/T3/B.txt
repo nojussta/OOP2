@@ -1,0 +1,9 @@
+2022
+Student;E2615;2021;Jure;Jurate;2008-03-02;865187341
+Graduate;2022;Darbas4;Petkute;Markas;2006-03-02;865187541
+Student;E2615;2021;Tomiene;Toma;2005-03-20;865187956
+Student;E2615;2021;Tyla;Martynas;2006-02-16;865187512
+Graduate;2021;Darbas1;Jase;Guoda;2008-01-02;865187222
+Graduate;2022;Darbas2;Eitvidas;Evaldas;2006-01-02;865187333
+Graduate;2021;Darbas6;Kerpyte;Angele;2007-03-02;865187541
+Graduate;2022;Darbas5;Zvirblyte;Meda;2009-02-02;865187541

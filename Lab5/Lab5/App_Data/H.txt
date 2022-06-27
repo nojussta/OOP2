@@ -1,0 +1,12 @@
+﻿2019-02-01
+TelAviv;Elijah;Bryant;5;15;2
+TelAviv;Scottie;Wilbekin;5;4;3
+TelAviv;TJ;Cline;10;5;0
+TelAviv;Chris;Jones;20;3;0
+TelAviv;Angelo;Caloiaro;15;3;2
+TelAviv;Othello;Hunter;34;2;0
+CSKA;Shengelia;Tornike;25;25;1
+CSKA;Lundberg;Gabriel;15;10;0
+CSKA;Clyburn;Will;5;20;1
+CSKA;Hackett;Daniel;45;30;0
+CSKA;Michael;Eric;30;10;0

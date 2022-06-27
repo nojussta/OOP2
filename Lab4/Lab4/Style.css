@@ -1,0 +1,26 @@
+﻿body {
+    height: 600px;
+    background-color: antiquewhite;
+    opacity: 1.5;
+}
+
+div.Button {
+    position: center;
+    cursor: pointer;
+}
+
+#Label1, #Label2 {
+    font-style: italic;
+    color: red;
+}
+
+#ResultBox, #TextBox3 {
+    border-style: dashed;
+    border-color: inherit;
+    border-width: 0.5px;
+    background-color: white;
+    position: relative;
+    top: 1px;
+    left: 0px;
+    width: 200px;
+}

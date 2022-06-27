@@ -1,0 +1,29 @@
+﻿body {
+    height: 600px;
+    background-color: antiquewhite;
+    opacity: 1.5;
+}
+
+div.Files {
+    position: relative;
+}
+
+div.Input {
+    position: relative;
+}
+
+div.Tables {
+    position: relative;
+}
+
+#Label19, #Label10, #Label11 {
+    font-style: italic;
+    color: red;
+}
+
+#TextBox6, #TextBox7 {
+    border: dashed;
+    border-width: 0.5px;
+    background-color: white;
+    position: relative;
+}

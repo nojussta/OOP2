@@ -1,0 +1,13 @@
+﻿2012-02-01
+Zalgiris;Jankūnas;Paulius;2;10;1
+Zalgiris;Walkup;Thomas;1;2;0
+Zalgiris;Hayes;Nigel;1;9;0
+Zalgiris;Lekavičius;Lukas;2;45;0
+Zalgiris;Grigonis;Marius;3;20;1
+Zalgiris;Jokūbaitis;Rokas;3;15;2
+TelAviv;Elijah;Bryant;5;15;2
+TelAviv;Scottie;Wilbekin;5;4;3
+TelAviv;TJ;Cline;10;5;0
+TelAviv;Chris;Jones;20;3;0
+TelAviv;Angelo;Caloiaro;15;3;2
+TelAviv;Othello;Hunter;34;2;0
